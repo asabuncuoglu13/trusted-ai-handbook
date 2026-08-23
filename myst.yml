@@ -19,6 +19,7 @@ project:
         - file: organise/org_01_learning_from_se.md
         - file: organise/org_02_trust_in_ubicomp.md
         - file: organise/org_03_lifecycle.md
+        - file: organise/org_04_definition.md
     - title: Operationalise
       children:
         - file: operationalise/ops_01_design.md
@@ -48,9 +49,12 @@ project:
         - file: observe/obs_03_incident_management.md
         - file: observe/obs_04_roi_for_rai.md
         - file: observe/obs_05_regulatory_context.md
+    - file: references.md
 
 site:
   template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+bibtex_bibfiles:
+    - references.bib
