@@ -1,0 +1,13 @@
+html,
+body {
+    font-family: Charter, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+}
+
+body {
+    text-rendering: optimizeLegibility;
+}
+
+p {
+    text-align: justify;
+    hyphens: auto;
+}

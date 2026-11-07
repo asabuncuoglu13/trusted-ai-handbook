@@ -53,8 +53,8 @@ project:
 
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
-bibtex_bibfiles:
-    - references.bib
+  options:
+    style: ./_static/custom.css
+    hide_outline: true
+  # favicon: favicon.ico
+    logo: logo.svg
