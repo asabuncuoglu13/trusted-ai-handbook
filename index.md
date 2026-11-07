@@ -29,7 +29,7 @@ Trust is multifaceted, and building it requires collaboration across disciplines
 2. **Operationalise:** Turning this conceptual understanding into practice requires translating principles into process, tooling, and decision-making. This section focuses on the operational controls, workflows, and engineering practices needed to design, build, test, deploy, and maintain AI systems responsibly across their lifecycle.
 3. **Observe:** Trust is not a one-time achievement; it must be continuously verified and improved. This section focuses on monitoring, evaluation, incident response, and feedback loops so teams can detect drift, risks, and harms after deployment and act before they escalate.
 
-As the table of contents shows, building trust requires designing, developing, maintaining, and reflecting on many interconnected components and processes. All these activities must be conducted with methodological, epistemic, normative, and interpretive rigour. {cite}`olteanu_rigor_2025` (More on {doc}`./organise/org_04_definition.md`). I will slowly, but hopefully steadily, publish new materials here. I have organised my existing notes into the current structure and will continue to structure my thinking and publish the following content:
+As the table of contents shows, building trust requires designing, developing, maintaining, and reflecting on many interconnected components and processes. All these activities must be conducted with methodological, epistemic, normative, and interpretive rigour. {cite}`olteanu_rigor_2025` (More on {doc}`./organise/org_04_definition.md`). I will slowly, but (hopefully) steadily, publish new materials here. I have organised my existing notes into the following structure and will continue to publish:
 
 ## Contents
 

@@ -1,5 +1,7 @@
 # Operational Incident Management for Enterprise AI
 
+[![hackmd-github-sync-badge](https://hackmd.io/JKx5FYy1T8S5X9p0AAm6KQ/badge)](https://hackmd.io/JKx5FYy1T8S5X9p0AAm6KQ)
+
 ## Abstract
 
 As AI models become embedded in core enterprise workflows, traditional IT incident management frameworks are facing structural failures. Current literature and policy frameworks predominantly define “AI incidents” through macro-level, societal harms (e.g., human rights breaches, mass disinformation). While essential for public policy, this definition offers little operational guidance for enterprise security and engineering teams tasked with maintaining operational continuity, compliance, and throughput.
@@ -201,62 +203,92 @@ AI-assisted technologies (Gemini and Claude) were used during the preparation of
 
 ## References
 
-<a id="ref-1"></a>1. Nelson, A., Rekhi, S., Souppaya, M., & Scarfone, K. (2025). *Incident response recommendations and considerations for cybersecurity risk management: A CSF 2.0 community profile* (NIST SP 800-61r3). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-61r3
+(ref-1)=
+1. Nelson, A., Rekhi, S., Souppaya, M., & Scarfone, K. (2025). *Incident response recommendations and considerations for cybersecurity risk management: A CSF 2.0 community profile* (NIST SP 800-61r3). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-61r3
 
-<a id="ref-2"></a>2. ISO/IEC. (2025). *ISO/IEC 27035-1:2023: Information technology—Information security incident management—Part 1: Principles and process*. ISO. https://www.iso.org/standard/78973.html
+(ref-2)=
+2. ISO/IEC. (2025). *ISO/IEC 27035-1:2023: Information technology—Information security incident management—Part 1: Principles and process*. ISO. https://www.iso.org/standard/78973.html
 
-<a id="ref-3"></a>3. West-Brown, M. J., Stikvoort, D., Kossakowski, K.-P., Killcrece, G., Ruefle, R., & Zajicek, M. (2004). *Handbook for Computer Security Incident Response Teams (CSIRTs)*. CMU/SEI.
+(ref-3)=
+3. West-Brown, M. J., Stikvoort, D., Kossakowski, K.-P., Killcrece, G., Ruefle, R., & Zajicek, M. (2004). *Handbook for Computer Security Incident Response Teams (CSIRTs)*. CMU/SEI.
 
-<a id="ref-4"></a>4. Google. (2026). *Google SRE—Site reliability engineering book*. https://sre.google/sre-book/table-of-contents/
+(ref-4)=
+4. Google. (2026). *Google SRE—Site reliability engineering book*. https://sre.google/sre-book/table-of-contents/
 
-<a id="ref-5"></a>5. McGregor, S. (2020). Preventing repeated real-world AI failures by cataloging incidents: The AI Incident Database. *arXiv:2011.08512*. https://doi.org/10.48550/arXiv.2011.08512
+(ref-5)=
+5. McGregor, S. (2020). Preventing repeated real-world AI failures by cataloging incidents: The AI Incident Database. *arXiv:2011.08512*. https://doi.org/10.48550/arXiv.2011.08512
 
-<a id="ref-6"></a>6. Lee Dixon, R. B., & Frase, H. (2025). *AI incidents: Key components for a mandatory reporting regime*. Center for Security and Emerging Technology (CSET).
+(ref-6)=
+6. Lee Dixon, R. B., & Frase, H. (2025). *AI incidents: Key components for a mandatory reporting regime*. Center for Security and Emerging Technology (CSET).
 
-<a id="ref-7"></a>7. Sidhu, H. K., Scholefield, R., Annan, N., Hernandez, K., Hou, I. N., Alshaikhi, A., Chin, Z. S., & Gipiškis, R. (2026). Open problems in AI incident governance. *arXiv:2607.05163*. https://doi.org/10.48550/arXiv.2607.05163
+(ref-7)=
+7. Sidhu, H. K., Scholefield, R., Annan, N., Hernandez, K., Hou, I. N., Alshaikhi, A., Chin, Z. S., & Gipiškis, R. (2026). Open problems in AI incident governance. *arXiv:2607.05163*. https://doi.org/10.48550/arXiv.2607.05163
 
-<a id="ref-8"></a>8. Longpre, S., Zhu, E., Ezell, C., Ghosh, A., McGregor, S., Paeth, K., Klyman, K., Kapoor, S., Bommasani, R., Appel, R., Strom, G., McIlvenny, L., Jaycox, M. M., Slattery, P., Butters, N., Narayanan, A., Liang, P., & Pentland, A. (2026). *FLARE-AI: Flaw reporting for AI*. arXiv:2606.31567. https://doi.org/10.48550/arXiv.2606.31567
+(ref-8)=
+8. Longpre, S., Zhu, E., Ezell, C., Ghosh, A., McGregor, S., Paeth, K., Klyman, K., Kapoor, S., Bommasani, R., Appel, R., Strom, G., McIlvenny, L., Jaycox, M. M., Slattery, P., Butters, N., Narayanan, A., Liang, P., & Pentland, A. (2026). *FLARE-AI: Flaw reporting for AI*. arXiv:2606.31567. https://doi.org/10.48550/arXiv.2606.31567
 
-<a id="ref-9"></a>9. Huang, P., Guo, C., Zhou, L., Lorch, J. R., Dang, Y., Chintalapati, M., & Yao, R. (2017). Gray failure: The Achilles’ heel of cloud-scale systems. In *Proceedings of the 16th Workshop on Hot Topics in Operating Systems* (pp. 150–155). ACM. https://doi.org/10.1145/3102980.3103005
+(ref-9)=
+9. Huang, P., Guo, C., Zhou, L., Lorch, J. R., Dang, Y., Chintalapati, M., & Yao, R. (2017). Gray failure: The Achilles’ heel of cloud-scale systems. In *Proceedings of the 16th Workshop on Hot Topics in Operating Systems* (pp. 150–155). ACM. https://doi.org/10.1145/3102980.3103005
 
-<a id="ref-10"></a>10. Lee, H. (2026). *Hidden technical debt of AI systems: Agent evaluation infrastructure*. Han, Not Solo. https://leehanchung.github.io/blogs/2026/06/13/hidden-technical-debt-agent-evaluation-infra/
+(ref-10)=
+10. Lee, H. (2026). *Hidden technical debt of AI systems: Agent evaluation infrastructure*. Han, Not Solo. https://leehanchung.github.io/blogs/2026/06/13/hidden-technical-debt-agent-evaluation-infra/
 
-<a id="ref-11"></a>11. Turri, V., & Dzombak, R. (2023). Why we need to know more: Exploring the state of AI incident documentation practices. In *Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society* (pp. 576–583). ACM. https://doi.org/10.1145/3600211.3604700
+(ref-11)=
+11. Turri, V., & Dzombak, R. (2023). Why we need to know more: Exploring the state of AI incident documentation practices. In *Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society* (pp. 576–583). ACM. https://doi.org/10.1145/3600211.3604700
 
-<a id="ref-12"></a>12. Paeth, K., Atherton, D., Pittaras, N., Frase, H., & McGregor, S. (2024). *Lessons for editors of AI incidents from the AI Incident Database*. arXiv:2409.16425. https://doi.org/10.48550/arXiv.2409.16425
+(ref-12)=
+12. Paeth, K., Atherton, D., Pittaras, N., Frase, H., & McGregor, S. (2024). *Lessons for editors of AI incidents from the AI Incident Database*. arXiv:2409.16425. https://doi.org/10.48550/arXiv.2409.16425
 
-<a id="ref-13"></a>13. Richards, I., Benn, C., & Zilka, M. (2025). *From incidents to insights: Patterns of responsibility following AI harms*. arXiv:2505.04291. https://doi.org/10.48550/arXiv.2505.04291
+(ref-13)=
+13. Richards, I., Benn, C., & Zilka, M. (2025). *From incidents to insights: Patterns of responsibility following AI harms*. arXiv:2505.04291. https://doi.org/10.48550/arXiv.2505.04291
 
-<a id="ref-14"></a>14. Ezell, C., Roberts-Gaal, X., & Chan, A. (2025). *Incident analysis for AI agents*. arXiv:2508.14231. https://doi.org/10.48550/arXiv.2508.14231
+(ref-14)=
+14. Ezell, C., Roberts-Gaal, X., & Chan, A. (2025). *Incident analysis for AI agents*. arXiv:2508.14231. https://doi.org/10.48550/arXiv.2508.14231
 
-<a id="ref-15"></a>15. National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)* (NIST AI 100-1). https://doi.org/10.6028/NIST.AI.100-1
+(ref-15)=
+15. National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)* (NIST AI 100-1). https://doi.org/10.6028/NIST.AI.100-1
 
-<a id="ref-16"></a>16. ISO/IEC. (2023). *ISO/IEC 42001:2023: Information technology—Artificial intelligence—Management system*. ISO. https://www.iso.org/standard/42001
+(ref-16)=
+16. ISO/IEC. (2023). *ISO/IEC 42001:2023: Information technology—Artificial intelligence—Management system*. ISO. https://www.iso.org/standard/42001
 
-<a id="ref-17"></a>17. MITRE. (2026). *MITRE ATLAS: Adversarial threat landscape for artificial-intelligence systems*. https://atlas.mitre.org
+(ref-17)=
+17. MITRE. (2026). *MITRE ATLAS: Adversarial threat landscape for artificial-intelligence systems*. https://atlas.mitre.org
 
-<a id="ref-18"></a>18. OWASP Foundation. (2025). *OWASP Top 10 for Large Language Model Applications*. https://genai.owasp.org/llm-top-10/
+(ref-18)=
+18. OWASP Foundation. (2025). *OWASP Top 10 for Large Language Model Applications*. https://genai.owasp.org/llm-top-10/
 
-<a id="ref-19"></a>19. Cybersecurity and Infrastructure Security Agency. (2025). *AI Cybersecurity Collaboration Playbook*. CISA / Joint Cyber Defense Collaborative.
+(ref-19)=
+19. Cybersecurity and Infrastructure Security Agency. (2025). *AI Cybersecurity Collaboration Playbook*. CISA / Joint Cyber Defense Collaborative.
 
-<a id="ref-20"></a>20. Gama, J., Žliobaitė, I., Bifet, A., Pechenizkiy, M., & Bouchachia, A. (2014). A survey on concept drift adaptation. *ACM Computing Surveys, 46*, 1–37. https://api.semanticscholar.org/CorpusID:201087802
+(ref-20)=
+20. Gama, J., Žliobaitė, I., Bifet, A., Pechenizkiy, M., & Bouchachia, A. (2014). A survey on concept drift adaptation. *ACM Computing Surveys, 46*, 1–37. https://api.semanticscholar.org/CorpusID:201087802
 
-<a id="ref-21"></a>21. Webb, G. I., Hyde, R., Cao, H., Nguyen, H. L., & Petitjean, F. (2016). Characterizing concept drift. *Data Mining and Knowledge Discovery, 30*(4), 964–994. https://doi.org/10.1007/s10618-015-0448-4
+(ref-21)=
+21. Webb, G. I., Hyde, R., Cao, H., Nguyen, H. L., & Petitjean, F. (2016). Characterizing concept drift. *Data Mining and Knowledge Discovery, 30*(4), 964–994. https://doi.org/10.1007/s10618-015-0448-4
 
-<a id="ref-22"></a>22. Rabanser, S., Günnemann, S., & Lipton, Z. C. (2019). *Failing loudly: An empirical study of methods for detecting dataset shift*. arXiv:1810.11953. https://arxiv.org/abs/1810.11953
+(ref-22)=
+22. Rabanser, S., Günnemann, S., & Lipton, Z. C. (2019). *Failing loudly: An empirical study of methods for detecting dataset shift*. arXiv:1810.11953. https://arxiv.org/abs/1810.11953
 
-<a id="ref-23"></a>23. Chen, Z., Kang, Y., Li, L., Zhang, X., Zhang, H., Xu, H., Zhou, Y., Yang, L., Sun, J., Xu, Z., Dang, Y., Gao, F., Zhao, P., Qiao, B., Lin, Q., Zhang, D., & Lyu, M. R. (2020). Towards intelligent incident management: Why we need it and how we make it. In *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering* (pp. 1487–1497). ACM. https://doi.org/10.1145/3368089.3417055
+(ref-23)=
+23. Chen, Z., Kang, Y., Li, L., Zhang, X., Zhang, H., Xu, H., Zhou, Y., Yang, L., Sun, J., Xu, Z., Dang, Y., Gao, F., Zhao, P., Qiao, B., Lin, Q., Zhang, D., & Lyu, M. R. (2020). Towards intelligent incident management: Why we need it and how we make it. In *Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering* (pp. 1487–1497). ACM. https://doi.org/10.1145/3368089.3417055
 
-<a id="ref-24"></a>24. Financial Services Sector Coordinating Council. (2026). *FSSCC AIEOG AI Lexicon*. https://fsscc.org/wp-content/uploads/2026/02/AIEOG-AI-Lexicon-February-2026.pdf
+(ref-24)=
+24. Financial Services Sector Coordinating Council. (2026). *FSSCC AIEOG AI Lexicon*. https://fsscc.org/wp-content/uploads/2026/02/AIEOG-AI-Lexicon-February-2026.pdf
 
-<a id="ref-25"></a>25. Shi, T., He, J., Wang, Z., Li, H., Wu, L., Guo, W., & Song, D. (2026). *Progent: Securing AI agents with privilege control*. arXiv:2504.11703. https://doi.org/10.48550/arXiv.2504.11703
+(ref-25)=
+25. Shi, T., He, J., Wang, Z., Li, H., Wu, L., Guo, W., & Song, D. (2026). *Progent: Securing AI agents with privilege control*. arXiv:2504.11703. https://doi.org/10.48550/arXiv.2504.11703
 
-<a id="ref-26"></a>26. Zou, W., Geng, R., Wang, B., & Jia, J. (2024). *PoisonedRAG: Knowledge corruption attacks to retrieval-augmented generation of large language models*. arXiv:2402.07867. https://doi.org/10.48550/arXiv.2402.07867
+(ref-26)=
+26. Zou, W., Geng, R., Wang, B., & Jia, J. (2024). *PoisonedRAG: Knowledge corruption attacks to retrieval-augmented generation of large language models*. arXiv:2402.07867. https://doi.org/10.48550/arXiv.2402.07867
 
-<a id="ref-27"></a>27. Chen, L., Zaharia, M., & Zou, J. (2023). *FrugalGPT: How to use large language models while reducing cost and improving performance*. arXiv:2305.05176. https://doi.org/10.48550/arXiv.2305.05176
+(ref-27)=
+27. Chen, L., Zaharia, M., & Zou, J. (2023). *FrugalGPT: How to use large language models while reducing cost and improving performance*. arXiv:2305.05176. https://doi.org/10.48550/arXiv.2305.05176
 
-<a id="ref-28"></a>28. Xie, C., Dhurandhar, A., & Li, B. (2026). *PRIGUARDAGENT: Context-aware privacy guardrails for agentic systems*. ICLR 2026. https://research.ibm.com/publications/priguardagent-context-aware-privacy-guardrails-for-agentic-systems
+(ref-28)=
+28. Xie, C., Dhurandhar, A., & Li, B. (2026). *PRIGUARDAGENT: Context-aware privacy guardrails for agentic systems*. ICLR 2026. https://research.ibm.com/publications/priguardagent-context-aware-privacy-guardrails-for-agentic-systems
 
-<a id="ref-29"></a>29. Agarwal, A., & Nene, M. J. (2024). Addressing AI risks in critical infrastructure: Formalising the AI incident reporting process. In *2024 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)* (pp. 1–6). https://doi.org/10.1109/CONECCT62155.2024.10677312
+(ref-29)=
+29. Agarwal, A., & Nene, M. J. (2024). Addressing AI risks in critical infrastructure: Formalising the AI incident reporting process. In *2024 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)* (pp. 1–6). https://doi.org/10.1109/CONECCT62155.2024.10677312
 
-<a id="ref-30"></a>30. Rezazade Mehrizi, M. H., Nicolini, D., & Mòdol, J. R. (2022). How do organizations learn from information system incidents? A synthesis of the past, present, and future. *MIS Quarterly, 46*(1), 531–590. https://doi.org/10.25300/MISQ/2022/14305
+(ref-30)=
+30. Rezazade Mehrizi, M. H., Nicolini, D., & Mòdol, J. R. (2022). How do organizations learn from information system incidents? A synthesis of the past, present, and future. *MIS Quarterly, 46*(1), 531–590. https://doi.org/10.25300/MISQ/2022/14305
