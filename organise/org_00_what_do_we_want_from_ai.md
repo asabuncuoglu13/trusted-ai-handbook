@@ -30,7 +30,9 @@ AI governance approaches—including the EU AI Act, UNESCO's recommendations, an
 
 ### Shift Toward Positive Governance & Actionable Frameworks
 
-Moving past pure risk mitigation requires articulating what we *positively want* AI to do. Funding bodies and research initiatives are beginning to reflect this shift. For example, _ARIA's (UK)_ Safeguarded AI programme allocated £59 million toward developing quantitative safety guarantees for deployment in high-stakes domains like energy and healthcare. Another UK programme, BridgeAI, provides £32 million to drive adoption across construction, transport, and agriculture around beneficial applications. Since I live the in the UK, I am more familiar with the UK-initiated programmes, however we can find more programmes investing into similar initiatives worldwide.
+Moving past pure risk mitigation requires articulating what we *positively want* AI to do. Funding bodies and research initiatives are beginning to reflect this shift. For example, _ARIA's (UK)_ [Scaling Trust](https://aria.org.uk/opportunity-spaces/trust-everything-everywhere/scaling-trust) programme allocated £59 million toward developing quantitative safety guarantees for deployment in high-stakes domains like energy and healthcare. Another UK programme, BridgeAI, provides £32 million to drive adoption across construction, transport, and agriculture around beneficial applications. Since I live the in the UK, I am more familiar with the UK-initiated programmes, however we can find more programmes investing into similar initiatives worldwide.
+
+>_... kill switches cannot be the whole safety strategy. Good design choices lead to solid engineering practice, then practical international standards, then balanced regulation._ Sir John Lazar CBE FREng. <https://asktheengineers.substack.com/p/an-ai-kill-switch-is-no-substitute>
 
 ## So, what do we want from AI?
 
@@ -41,6 +43,9 @@ When I searched for this question, I came across Fisher's article [2](#fisher-ai
 | **AI and Humans** | 1. Human value alignment<br>2. At least as good judgment as humans in critical situations, and the ability to improve when limitations or biases are detected<br>3. Collaboration with people<br>4. Provide cognitive help<br>5. The AI can step back<br>6. Helpful, Honest, Harmless (HHH) |
 | **AI Characteristics** | 7. Trustworthy, quantifiable, and improving expertise<br>8. Dependable agents<br>9. Thoroughness and consistency<br>10. Confidence and uncertainty estimates plus explainability<br>11. Improving levels of moral and legal responsibility<br>12. Transparency |
 | **AI in Practice** | 13. Ability to do risky and unpleasant tasks<br>14. Focus on widely useful applications<br>15. Focus on public sector benefits<br>16. Local impact of AI actions<br>17. Rigorous engineering methodology<br>18. Training data provenance |
+
+Beyond these principles, we want:
+> Digital brains!  _Imagine a digital lab assistant able to read the contents and understand the semantic context in these tens of millions of papers, and with whom I could have a technical conversation. Rather than relying on keyword-based queries, DARPA's Big Mechanism is enabling computers to understand, via machine-reading technology, the scientific landscape in an important area of cancer research._ https://ieeexplore.ieee.org/document/8012285 
 
 Check out their paper: https://doi.org/10.1002%2Faaai.70042, it gives a great perspective on what do we want and not want from AI!
 
@@ -55,6 +60,10 @@ AI requires a similar proactive engineering ethos today:
 * Measure what matters. Move beyond commercial metrics to evaluate systemic quality, fairness, and robustness across parent and child systems.
 
 By framing AI not just as a product to be sold, but as public infrastructure to be engineered, we can move beyond relying on a handful of organisations to _make better AI_ and instead work together towards _making things better_.
+
+# Relevant
+
+> ... if we are to realise those benefits _(of AI: scientific discovery, productivity and economic prosperity)_ safely, we must answer one critical question: should society retain the ability to intervene, to establish the boundaries within which these systems operate and to revise those boundaries as the technology evolves? **by Andrew Bailey, BoE**. https://www.bankofengland.co.uk/bank-insights/2026/frontier-ai-and-the-question-of-governance
 
 # References
 
