@@ -38,7 +38,7 @@ project:
             - file: operationalise/enabling-characteristics/ops_11_transparency.md
             - file: operationalise/enabling-characteristics/ops_12_sustainability.md
         - file: operationalise/ops_13_guardrails.md
-        - file: operationalise/ops_14_human_supervision.md
+        - file: operationalise/ops_14_human_oversight.md
         - file: operationalise/ops_15_evals.md
         - file: operationalise/ops_16_runtime_controls.md
         - file: operationalise/ops_17_governance_as_code.md
